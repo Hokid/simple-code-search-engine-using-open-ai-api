@@ -1,0 +1,19 @@
+{
+  "name": "openai-code-search",
+  "version": "1.0.0",
+  "description": "openai-code-search",
+  "main": "index.js",
+  "engines": {
+    "node": ">=14",
+    "npm": ">=6"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.9.5"
+  },
+  "dependencies": {
+    "@types/node": "18.13.0",
+    "csv-stringify": "6.2.4"
+  }
+}
